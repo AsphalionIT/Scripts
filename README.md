@@ -1,6 +1,6 @@
 # Scripts
 <h1>Script teams</h1>
-<p> El script permite Añadir, borrar y visualizar el DDI y la extencion. <br> Actualmente se utiliza el modulo MicrosoftTeams Version 2.0.0 </p>
+<p> El script permite añadir, borrar y visualizar el DDI y la extencion. <br> Actualmente se utiliza el modulo MicrosoftTeams Version 2.0.0 </p>
 <h2>puntos a mejorar </h2>
   <ul>
     <li>Comprobar si se tiene instalado el modulo correcto </li>
