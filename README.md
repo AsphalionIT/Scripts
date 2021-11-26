@@ -1,4 +1,4 @@
-# Automatizacion Alta usuarios.
+# Automatización Alta\Bajas Usuarios.
 <h1>Script teams</h1>
 <p> El script permite añadir, borrar y visualizar el DDI y la extencion. <br> Actualmente se utiliza el modulo MicrosoftTeams Version 2.0.0 </p>
 <h2>puntos a mejorar </h2>
